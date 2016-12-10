@@ -3,6 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? while its in the staging area, it may still be backed out
 
+	-staing area is a pre-repository.  Not yet committed.  Still may be backed out.
+
 What value do you think it offers?  can group things as you see fit.cd
 
 How can you use the staging area to make sure you have one commit per logical
