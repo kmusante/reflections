@@ -1,0 +1,32 @@
+1) using 'diff -u (old file name) (new file name)' for mac and if you use GIT BASH
+2) on windows using Babun, you can type the comamand 'FC     (new file name) (old file name)'
+in both of the above you need to be in the directory where the files are located.
+--How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    Instead of going line by line, the 'diff' command showed us
+    where the differences were
+
+--How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Understand it better.  Could compare prior versions more easily.  Can review one change at a time.
+
+--What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    must conscientiously choose to 'commit'.  This allows you to save at logical points.  The problem, however is that you must remember to do so or there will be no prior versions.
+
+--Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    It is helpful when working with related files to know when changes to each of the files have occured.
+
+--How can you use the commands git log and git diff to view the history of files?
+
+    The commit log will indicate the log values.  The commit diff will allow you to indicate the version and then the version preceding it to give you the changes.  The earier ones are below.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you know you can always revert back to a prior draft
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Well, I still dont have it set up quite right.
