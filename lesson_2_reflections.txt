@@ -7,15 +7,16 @@ How is the staging area different from the working directory and the repository?
 
 What value do you think it offers?  can group things as you see fit.cd
 
-How can you use the staging area to make sure you have one commit per logical
-change? I'm still figuring this out but essentially, by commenting on each change you will be required to only do one at at time.
+How can you use the staging area to make sure you have one commit per logical change? 
+	-I'm still figuring this out but essentially, by commenting on each change you will be required to only do one at at time. doing them frequently.  
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 when trying out new or experimental attributes
+	-It would be helpful to have branches if I wanted to explore a different solution and was afraid i'd lose my aiblity to get back to where i was.
 
 How do the diagrams help you visualize the branch structure?
-You can see they are like trees and need to get to commits linearly
+	-You can see they are like trees and need to get to commits linearly
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do? they have the attributes of both branches
